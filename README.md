@@ -55,12 +55,24 @@ I acted as the **IT Support Engineer** for a healthcare company:
 
 ## 🖼️ Screenshots
 
-ServiceNow Incident Creation 
-ServiceNow Incident Resolved 
-Jira Epic
-Jira Story 
-Jira Sprint Board 
-Jira Story Done 
+- **ServiceNow Incident Creation**  
+  ![ServiceNow Incident Creation](https://i.imgur.com/YourImageID1.png)
+
+- **ServiceNow Incident Resolved**  
+  ![ServiceNow Incident Resolved](https://i.imgur.com/YourImageID2.png)
+
+- **Jira Epic**  
+  ![Jira Epic](https://i.imgur.com/YourImageID3.png)
+
+- **Jira Story**  
+  ![Jira Story](https://i.imgur.com/YourImageID4.png)
+
+- **Jira Sprint Board**  
+  ![Jira Sprint Board](https://i.imgur.com/YourImageID5.png)
+
+- **Jira Story Done**  
+  ![Jira Story Done](https://i.imgur.com/YourImageID6.png)
+
 
 ---
 
