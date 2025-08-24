@@ -78,6 +78,19 @@ I acted as the **IT Support Engineer** for a healthcare company:
 
 ## 🔄 Workflow Diagram
 
+*(Simulated IT ticket lifecycle from ServiceNow → Jira → Resolution)*
+
+![Workflow Diagram](https://i.imgur.com/YourDiagramID.png)
+
+**Flow Description:**
+
+1. **User Reports Issue** → ServiceNow Incident Created  
+2. **Incident Triaged** → Problem Escalated to Jira  
+3. **Jira Epic & Story Created** → Added to Sprint  
+4. **Development Team Resolves Issue** → Updates Jira Story Status  
+5. **Incident Closed in ServiceNow** → Workflow Complete
+
+
 
 
 
