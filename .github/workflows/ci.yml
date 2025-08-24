@@ -1,0 +1,23 @@
+name: CI Workflow
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Validate Markdown
+      uses: DavidAnson/markdownlint-cli2-action@v9
+      with:
+        globs: '**/*.md'
+
+    - name: Echo success message
+      run: echo "✅ CI workflow ran successfully!"
